@@ -1,0 +1,6 @@
+[loadbalancer]
+34.203.236.7
+
+[control]
+54.224.53.66 ansible_connection=local
+
